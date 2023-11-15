@@ -45,13 +45,14 @@
       "last 1 safari version"
     ]
   },
-  
   "extends": [
     "react-app",
     "react-app/jest"
   ],
   "rules": {
-    "no-restricted-globals": ["error", "location"]
+    "no-restricted-globals": [
+      "error",
+      "location"
+    ]
   }
-  
 }

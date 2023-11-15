@@ -2,7 +2,6 @@ import './App.css';
 import Lotofacil from './components/Lotofacil';
 import Megasena from './components/Megasena';
 import { Provider } from './contexts/contexto';
-// import Principal from './pages/principal';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Principal from './pages/principal';
 import Carrregando from './components/NOTFOUND/NOTFOUND';
